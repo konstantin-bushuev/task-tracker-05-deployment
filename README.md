@@ -15,7 +15,7 @@ REST API для управления задачами. Приложение по
 ## План
 
 * [x] Создать репозиторий на основе финального состояния task-tracker-04-docker
-* [ ] Настроить Spring Boot Profiles (dev и prod).
+* [x] Настроить Spring Boot Profiles (dev и prod)
 * [ ] Переработать Dockerfile с использованием Multi-stage Build.
 * [ ] Подготовить Docker Compose для production-среды.
 * [ ] Добавить Nginx в качестве Reverse Proxy.
