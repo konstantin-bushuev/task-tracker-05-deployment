@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: ${DB_URL:jdbc:postgresql://localhost:5432/task_tracker}
+    username: ${DB_USERNAME:task_tracker}
+    password: ${DB_PASSWORD:task_tracker}
+    driver-class-name: org.postgresql.Driver
+
+  jpa:
+    show-sql: true
