@@ -1,4 +1,13 @@
 services:
+  postgres:
+    ports: !reset []
+
+    restart: unless-stopped
+
   app:
+    ports: !reset []
+
     environment:
       SPRING_PROFILES_ACTIVE: prod
+
+    restart: unless-stopped
