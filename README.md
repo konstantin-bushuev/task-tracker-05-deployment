@@ -18,7 +18,7 @@ REST API для управления задачами. Приложение по
 * [x] Настроить Spring Boot Profiles (dev и prod)
 * [x] Переработать Dockerfile с использованием Multi-stage Build
 * [x] Подготовить Docker Compose для production-среды
-* [ ] Добавить Nginx в качестве Reverse Proxy.
+* [x] Добавить Nginx в качестве Reverse Proxy.
 * [ ] Настроить резервное копирование и восстановление PostgreSQL.
 * [ ] Проверить работу приложения в production-конфигурации.
 * [ ] Обновить документацию проекта.
