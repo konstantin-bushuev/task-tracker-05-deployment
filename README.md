@@ -116,4 +116,5 @@ docker compose \
 
 Реализована архитектура с Nginx Reverse Proxy, Spring Boot и PostgreSQL. Настроены профили окружения, сборка Docker-образа, управление контейнерами и резервное копирование базы данных.
 
-Следующий этап: CI/CD с использованием GitHub Actions и развёртывание приложения на VPS
+Следующий этап: [task-tracker-06-cicd](https://github.com/konstantin-bushuev/task-tracker-06-cicd) - 
+CI/CD с использованием GitHub Actions и развёртывание приложения на VPS
